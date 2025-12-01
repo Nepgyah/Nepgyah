@@ -6,31 +6,13 @@ I'm a full stack developer with a frontend focus. My most comfortable stack is D
 
 ## Tech Stack
 ### Languages
-- HTML
-- CSS
-- Javascript
-- Typescript
-- Python
-- Java
-- C++
+HTML, CSS, Javascript, Typescript, Python, Java, C++
 
 ### Frameworks
-- Next.js
-- Django
-- MUI
-- SASS
-- Django Rest Framework
-- Zustand
-- React.js
-- Pytest
-- Chakra UI
+Next.js Django, MUI, SASS, Django Rest Framework, Zustand, React.js, Pytest, Chakra UI
 
 ### Tools & Platforms
-- Github
-- Figma
-- Jira
-- Vercel
-- Koyeb
+Github, Figma, Jira, Vercel, Koyeb
 
 <!--
 **Nepgyah/Nepgyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
