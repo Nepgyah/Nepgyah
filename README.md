@@ -1,30 +1,11 @@
-## About Me
-I'm a full stack developer with a frontend focus. My most comfortable stack is Django and Next.js with typescript. Currently working on a mega personal project Arcadia to help refine current skills and learn new ones. My latest adventures include learning zustand and zod.
+# 💫 About Me:
+I am a full stack web developer specializing in Django and Next.js.<br>I spent 2 years in Tokyo, Japan working as a junior dev to build a web platform: ax3.io <br>A solution geared to help marketers make meaningful decisions with the help of psychology. <br>I also led the development 2 promotional website: personimals.io and mnzt.io. <br>Working closely with the design team, I built the sites from zero while implementing web dev best practices<br>to achieved 90+ pt scoring on PageSpeed insights while keeping both sites under 10mbs.<br><br>Recently, I have returned from Japan and am looking for opportunities to further my skills in the US market.<br>In my free time, I work on personal projects to not only hone my skills but to learn new ones as well.<br>Though its still ongoing, the project I am most proud of so far is Arcadia, a web platform designed to combine all the needs for fans<br>of anime, games and manga.
 
-## Socials
-- [Linkedin](https://www.linkedin.com/in/apawell/)
 
-## Tech Stack
-### Languages
-HTML, CSS, Javascript, Typescript, Python, Java, C++
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apawell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:auston.pawell@gmail.com) 
 
-### Frameworks
-Next.js Django, MUI, SASS, Django Rest Framework, Zustand, React.js, Pytest, Chakra UI
+# 💻 Tech Stack:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Tools & Platforms
-Github, Figma, Jira, Vercel, Koyeb
-
-<!--
-**Nepgyah/Nepgyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
