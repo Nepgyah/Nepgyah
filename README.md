@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am a full stack web developer specializing in Django and Next.js.<br>I spent 2 years in Tokyo, Japan working as a junior dev to build a web platform: ax3.io <br>A solution geared to help marketers make meaningful decisions with the help of psychology. <br>I also led the development 2 promotional website: personimals.io and mnzt.io. <br>Working closely with the design team, I built the sites from zero while implementing web dev best practices<br>to achieved 90+ pt scoring on PageSpeed insights while keeping both sites under 10mbs.<br><br>Recently, I have returned from Japan and am looking for opportunities to further my skills in the US market.<br>In my free time, I work on personal projects to not only hone my skills but to learn new ones as well.<br>Though its still ongoing, the project I am most proud of so far is Arcadia, a web platform designed to combine all the needs for fans<br>of anime, games and manga.
+Passionate and proactive Full-Stack web developer with over 2.5 years of experience in web development. I design and build products end-to-end, from designing database schemas, to APIs development, to creating responsive user interfaces. Whether its creating intricate but scalable APIs or collaborating with the UX\UI team to bring their designs to fruition, I love being able to contribute on all facets of a company's application solution as a full-stack developer.
+
+A few examples of my latest works include:
+- Developing a marketing based web solution: ax3 which empowers marketers to create resonant messaging through psychology
+- Leading the development of Personimals.io, a psychometric personality site, designed to showcase the power of ax3, in a more playful manner
+- Revamping mnzt.io, the brand website for Manzanita. I worked closely with the design team and CEO to help craft a compelling story paired with a modern design
+
+Additionally, I am a big fan of Anime and Gaming. As such, I am building my own web app: Arcadia (arcadia-platform.vercel.app). The app takes the needs of people with similar hobbies that usually require separate sites and accounts, and combines it into one solution. With a single account, users will be able to seamlessly go from adding a anime to their watch list to exploring a similar manga to checking out video games on sale to looking for the next anime convetion to attend. This project provides me with a open sandbox to learn and apply new concepts as a developer in a environment that combines my passions of anime and development.
 
 
 ## 🌐 Socials:
